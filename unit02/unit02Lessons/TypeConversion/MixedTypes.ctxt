@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MixedTypes
+comment0.text=\n\ This\ class\ demonstrates\ techniques\ for\ using\ mixed\ types\ in\ arithmetic\ expressions.\n\ \n\ Parts\ of\ the\ code\ have\ been\ commented\ out\ by\ using\ a\ slash\ and\ an\ asterisc\ at\ the\ beginning\ of\ a\ code\ segment\n\ and\ an\ asterisc\ and\ a\ slash\ at\ the\ end\ of\ a\ code\ segment.\ \ Remove\ those\ when\ you\ want\ to\ uncomment\ that\ \n\ segment\ of\ code\n\ \n\ FLVS\ 2007\n\ @author\ B.\ Jordan\ \n\ @version\ 02/01/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

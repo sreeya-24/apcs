@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AnnualFuelUseTester
+comment0.text=\n\ This\ program\ calculates\ the\ miles\ per\ gallons\ and\ the\ total\ for\ each\ columns\ and\ the\ \n\ annual\ projection.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/16/2022\n
+comment1.params=fillUpsArray
+comment1.target=int\ minimumDistance(AnnuelFuelUse[])
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=fillUpsArray
+comment2.target=int\ maximumDistance(AnnuelFuelUse[])
+comment3.params=fillUpsArray
+comment3.target=double\ minimumMPG(AnnuelFuelUse[])
+comment4.params=fillUpsArray
+comment4.target=double\ maximumMPG(AnnuelFuelUse[])
+comment5.params=fillUpsArray
+comment5.target=double\ minimumPrice(AnnuelFuelUse[])
+comment6.params=fillUpsArray
+comment6.target=double\ maximumPrice(AnnuelFuelUse[])
+comment7.params=fillUpsArray
+comment7.target=int\ totalDistance(AnnuelFuelUse[])
+comment8.params=fillUpsArray
+comment8.target=double\ totalGallons(AnnuelFuelUse[])
+comment9.params=fillUpsArray
+comment9.target=double\ totalCost(AnnuelFuelUse[])
+numComments=11

@@ -1,0 +1,47 @@
+﻿.feedbackForm {
+  overflow-x: hidden;
+  height: 100%;
+}
+.feedbackForm #message {
+  display: none;
+}
+.feedbackForm #validationSummary {
+  display: none;
+}
+.feedbackForm .cxForm textarea.field {
+  width: 320px;
+}
+@media all and (max-width: 520px) {
+  .feedbackForm .cxForm textarea.field {
+    width: 100%;
+  }
+}
+.feedbackForm .requiredMessage[style="visibility:hidden;"] .invalidMessage {
+  display: none;
+}
+/* feedbackFrame is must be sized before it is placed inside the overlay, */
+/* otherwise the overlay will not be properly centered */
+#feedbackFrame {
+  border: 0;
+  width: 95%;
+  height: 330px;
+}
+@media all and (max-width: 520px) {
+  #feedbackFrame {
+    height: 300px;
+  }
+}
+@media all and (max-width: 520px) and (min-height: 560px) {
+  #feedbackFrame {
+    height: 425px;
+  }
+}
+.feedbackOverlay .cxlBody {
+  padding: 0;
+}
+@media all and (max-width: 520px) {
+  .feedbackPage .mainContent {
+    height: 320px;
+  }
+}
+/*# sourceMappingURL=feedback.css.map */

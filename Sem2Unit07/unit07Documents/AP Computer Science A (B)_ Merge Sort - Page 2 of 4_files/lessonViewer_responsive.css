@@ -1,0 +1,1513 @@
+﻿html, form, .row {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    overflow: hidden;
+}
+
+main {
+    background-color: #f1f1f1;
+    height: 100%;
+}
+
+:focus {
+    outline: 2px solid #D2DB0E;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden
+}
+
+header nav {
+    height: 80px;
+    line-height: normal;
+    background: #722362;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 5px solid #D2DB0E;
+    box-shadow: none;
+}
+
+.header-buttons-left {
+    flex: 1;
+    display: flex;
+    font-size: .9em;
+}
+
+.header-title {
+    flex: 1;
+    align-self: center;
+    padding-left: 36px;
+    font-size: 1.5em;
+    margin: 0;
+    line-height: normal;
+}
+
+#btnMenu {
+    display: none;
+    align-self: center;
+    color: #fff;
+    background-color: transparent;
+    border: 0;
+}
+
+.header-buttons-right {
+    flex: 1;
+    align-self: center;
+    margin-right: 36px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-button {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid #722362;
+    border-radius: 3px;
+    outline: none;
+    height: 56px;
+    margin: 2px;
+    color: #fff;
+    background-color: transparent;
+    cursor: pointer;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+    .header-button:hover {
+        color: #722362;
+        background-color: #fff !important;
+    }
+
+    .header-button:focus {
+        border: 2px solid #D2DB0E;
+        background-color: #722362;
+    }
+
+.header-buttons-right > div {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-button-spacer {
+    flex: 1;
+}
+
+.header-lesson-mod-button-wrapper {
+    display: none;
+    flex: 1;
+    max-width: 250px;
+}
+
+#ctl00_modificationHeader {
+    padding: 0 15px;
+}
+
+.header-print-button-wrapper {
+    flex: 1;
+    max-width: 120px;
+}
+
+#headerAssessment {
+    max-width: 250px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.lessonContentIframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.absolute-content-wrapper {
+    position: absolute;
+    top: 60px;
+    right: 1px;
+    z-index: 997;
+    background-color: white;
+    width: calc((100vw - 8.3%) - 14px); /* 8.3% is the width value of l1 column style */
+    height: calc(100% - 60px);
+    border-radius: 3px;
+    margin-right: 14px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 2px 7px #c4c4c4;
+}
+
+.content-items-top {
+    display: flex;
+    flex-direction: column;
+    margin: 7px auto;
+    max-width: 1200px;
+    width: 90%;
+}
+
+.content-items {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.iframe-container {
+    flex: 1 0 auto;
+    height: 100%;
+}
+
+.bread-crumb-nav {
+    height: 42px;
+    font-size: 0.8em;
+}
+
+.bread-crumb .bread-crumb-left {
+    display: flex;
+}
+
+.breadcrumb, .breadcrumb:before {
+    color: rgba(51, 51, 51, 0.7);
+    font-size: 10px;
+    line-height: 10px;
+    display: inline-flex;
+}
+
+    .breadcrumb:before {
+        align-self: center;
+        font-size: 3em;
+        margin: 0 10px;
+    }
+
+    .breadcrumb:last-child {
+        color: rgba(51, 51, 51, 1)
+    }
+
+.breadcrumb-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 2px 7px;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+}
+
+    .breadcrumb-text-wrapper:hover {
+        background-color: #D2DB0E40;
+    }
+
+.breadcrumb-title {
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.breadcrumb-subtitle {
+    font-size: 14px;
+}
+
+.page-numbers {
+    font-size: 14px;
+    color: #333;
+}
+
+#breadcrumbs,
+#pageNumbers {
+    padding: 0;
+}
+
+.progress {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+    .progress .determinate {
+        background-color: #EA067E !important;
+        border-radius: 3px;
+    }
+
+.left-menu {
+    height: calc(100% - 100px);
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.menu-button > button {
+    cursor: pointer;
+}
+
+.menu-1 .material-icons {
+    background-color: #76D5D4;
+}
+
+.menu-2 .material-icons {
+    background-color: #FFB81C;
+}
+
+.menu-3 .material-icons {
+    background-color: #A0A700;
+}
+
+#menuAssessment .material-icons,
+#slideOutMenuAssessment .material-icons {
+    background-color: #D04901;
+}
+
+#menuAssessment:hover .material-icons,
+#slideOutMenuAssessment:hover .material-icons,
+#slideOutMenuAssessment > button:focus .material-icons {
+    background-color: #722362;
+}
+
+.menu-1:hover .material-icons,
+.menu-1 > button:focus .material-icons {
+    background-color: #722362;
+}
+
+.menu-2:hover .material-icons,
+.menu-2 > button:focus .material-icons {
+    background-color: #722362;
+}
+
+.menu-3:hover .material-icons,
+.menu-3 > button:focus .material-icons {
+    background-color: #722362;
+}
+
+.left-content-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+    .left-content-wrapper button {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 20px auto 10px auto;
+        color: #444;
+        background-color: transparent;
+        border: 0;
+    }
+
+        .left-content-wrapper button:focus {
+            outline: 2px solid #D2DB0E;
+        }
+
+    .left-content-wrapper .material-icons {
+        border-radius: 50%;
+        padding: 10px;
+        font-size: 1.25em;
+        color: #ffffff;
+        margin-bottom: 7px;
+    }
+
+#slideOutMenu {
+    width: 130px;
+    display: none;
+}
+
+.icon-text {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.7em;
+}
+
+.feedback-container,
+#slideOutMenuLessonFeedback {
+    margin-top: auto;
+}
+
+.material-icons.menu-icon {
+    font-size: 30px;
+    text-shadow: 0 0 2px #00000099;
+}
+
+.material-icons.default {
+    color: #333333;
+}
+
+.material-icons.complete {
+    color: #59A800;
+}
+
+.btn-floating {
+    position: absolute;
+    top: calc((100% - 140px) / 2);
+    border: 1px solid #eaeaea;
+}
+
+    .btn-floating:focus {
+        outline: 2px solid #D2DB0E;
+    }
+
+    .btn-floating > i {
+        color: #333;
+    }
+
+    .btn-floating:hover {
+        background-color: #26a69a !important;
+    }
+
+        .btn-floating:hover > i {
+            color: #fff;
+        }
+
+.prev-btn {
+    left: 20px;
+}
+
+    .prev-btn i {
+        width: 36px;
+    }
+
+.next-btn {
+    right: 20px;
+}
+
+.modal {
+    border-radius: 3px;
+}
+
+.modal-content {
+    padding: 0 !important;
+    height: calc(100% - 1px) !important;
+    overflow-y: hidden !important;
+}
+
+.modal-header {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 30px 50px 15px calc(10% - 5px);
+}
+
+    .modal-header h1 {
+        font-size: 2rem;
+        margin-bottom: 0;
+        line-height: 110%;
+    }
+
+.modal-close-btn {
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    background-color: transparent;
+    border: 0;
+    transition: color 0.3s ease;
+}
+
+    .modal-close-btn:hover {
+        color: #EA067E;
+    }
+
+    .modal-close-btn:focus {
+        outline: 2px solid #D2DB0E;
+        background-color: transparent;
+    }
+
+.modal-body {
+    overflow-y: auto;
+    height: calc(100% - 70px);
+}
+
+.modal-body-container {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 8px;
+}
+
+.modal .modal-footer {
+    display: flex;
+    padding-left: 10%;
+}
+
+.modal-footer button {
+    background-color: #722362;
+    text-transform: capitalize;
+}
+
+    .modal-footer button:hover,
+    .modal-footer button:focus {
+        background-color: #EA067E;
+    }
+
+#courseToolsList {
+    outline: none;
+    margin: 3px 0 0 -10px;
+}
+
+    #courseToolsList li {
+        display: flex;
+    }
+
+    #courseToolsList a {
+        color: rgba(0, 0, 0, 1);
+        font-size: 1.2em;
+        background-color: transparent;
+        padding: 5px 10px;
+        border-radius: 3px;
+        transition: background-color 0.3s ease;
+        flex: 1;
+    }
+
+        #courseToolsList a:hover {
+            background-color: #dcddde;
+        }
+
+#feedbackModal {
+    max-height: 520px;
+}
+
+    #feedbackModal .modal-body {
+        height: calc(100% - 70px - 53px); /* 100% minus header height minus footer height */
+    }
+
+.star-rating {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 1.5em;
+    justify-content: space-around;
+    max-width: 300px;
+    width: auto;
+    margin-top: 2px;
+    padding-top: 3px;
+}
+
+    .star-rating input:focus + label {
+        -webkit-text-stroke-color: #ac8200;
+        -webkit-text-stroke-width: 1px;
+    }
+
+    .star-rating label {
+        color: #bebebe;
+        cursor: pointer;
+    }
+
+    .star-rating :checked ~ label {
+        color: #FFB81C;
+    }
+
+    .star-rating label:hover,
+    .star-rating label:hover ~ label {
+        color: #FFB81C;
+    }
+
+#ratingValue {
+    position: absolute;
+    opacity: 0;
+}
+
+.feedback-content textarea {
+    height: 140px;
+    width: 100%;
+}
+
+.feedback-content .character-count {
+    text-align: right;
+}
+
+.course-name {
+    font-size: 1.25rem;
+    display: block;
+}
+
+.course-outline ol li {
+    line-height: 200%;
+    list-style-type: none;
+    position: relative;
+}
+
+.outline-button {
+    font-size: 15px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    width: 100%;
+    line-height: 2em;
+    cursor: pointer;
+}
+
+    .outline-button.active:hover {
+        border-color: #333333;
+    }
+
+.course-outline button:hover, .course-outline button:focus {
+    background-color: #dcddde;
+}
+
+.course-outline ol li button.active {
+    font-weight: 600;
+    background-color: #e7e7e7;
+}
+
+.course-outline-list {
+    padding-inline-start: 0px;
+    margin-top: 0px;
+}
+
+.assessment-type {
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    background-color: #ffffff;
+    font-size: 12px;
+    display: inline-flex;
+    max-height: 24px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.assessment-type-default {
+    color: #752d02;
+}
+
+.assessment-type-sample-work {
+    color: #008066;
+}
+
+.assessment-type-quiz {
+    color: #0d8000;
+}
+
+.assessment-type-discussion {
+    color: #417505;
+}
+
+.assessment-type-portfolio {
+    color: #d50156;
+}
+
+.assessment-type-final-exam {
+    color: #6500BE;
+}
+
+.assessment-type-quick-check {
+    color: #9B5300;
+}
+
+.assessment-type-reflection {
+    color: #6A6100;
+}
+
+.assessment-type-end-of-course-exam {
+    color: #001AAE;
+}
+
+.assessment-type-course-survey {
+    color: #333333;
+}
+
+.assessment-type-participation {
+    color: #005FA5;
+}
+
+.assessment-type-pretest {
+    color: #7B0094;
+}
+
+.assessment-type-skills-check {
+    color: #B70101;
+}
+
+.assessment-type-test {
+    color: #9B0000;
+}
+
+.assessment-type-practice {
+    color: #00556E;
+}
+
+.lesson-complete-icon {
+    color: #478500;
+}
+
+.lesson-skipped-icon {
+    color: #666666;
+}
+
+.lesson-current-icon {
+    color: #000000;
+}
+
+.lesson-skipped-node {
+    color: #666666 !important;
+    font-style: italic;
+}
+
+.node-content-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.node-name-container {
+    text-align: left;
+}
+
+.icon-container {
+    flex: 0 0 auto;
+    display: inline-flex;
+    justify-content: flex-end;
+    margin: auto 0px;
+    position: absolute;
+    left: -45px;
+    min-width: 45px;
+}
+
+    .icon-container i.tiny {
+        font-size: 1.5em;
+    }
+
+
+/*
+    LESSON NOTE STYLES
+*/
+.lesson-note-button {
+    border: 1px solid #c4c4c4;
+    background-color: #26a69a !important;
+    max-width: 150px;
+}
+
+    .lesson-note-button:focus {
+        border: 2px solid #D2DB0E;
+        background-color: #722362;
+    }
+
+    .lesson-note-button .material-icons {
+        margin-right: 8px;
+    }
+
+#lessonNoteModal h2 {
+    font-size: 1.6rem;
+}
+
+#lessonNoteModal .note {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#lessonNoteModal .header-button {
+    background-color: #722362;
+    margin-bottom: 50px;
+    padding: 10px 30px;
+    border: 2px solid #722362;
+}
+
+    #lessonNoteModal .header-button:hover {
+        background-color: #EA067E !important;
+        border: 2px solid #EA067E;
+        color: #fff;
+    }
+
+    #lessonNoteModal .header-button:focus {
+        border: 2px solid #D2DB0E;
+    }
+
+/**********************/
+
+
+/* ASSESSMENT MODAL */
+#assessmentsModal .modal-header {
+    padding: 30px 15px 15px 10%;
+}
+
+.assessment-item-message {
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+.assessment-item #lmuContent {
+    color: transparent;
+    font-size: 0px;
+}
+
+.assessment-item .loading {
+    text-align: left;
+}
+
+    .assessment-item .loading img {
+        margin-right: 7px;
+    }
+
+.assessment-item label {
+    color: #666666;
+}
+
+.assessment-item a {
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 16px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    font-size: 14px;
+    outline: 0;
+    text-decoration: none;
+    color: #fff;
+    background-color: #722362;
+    text-align: center;
+    margin: 10px 0 20px;
+}
+
+    .assessment-item a:hover {
+        background-color: #EA067E;
+    }
+
+    .assessment-item a:focus {
+        outline: 2px solid #D2DB0E;
+    }
+
+/**********************/
+#notifications {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#skippedLesson {
+    width: 100%;
+    background-color: #FFC566;
+    color: black;
+}
+
+
+.notification a {
+    padding-left: 10px;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.notification-wrapper {
+    max-width: 750px;
+    padding: 25px 40px 25px 60px;
+    margin: 0 16px 8px;
+    color: #ffffff;
+    text-decoration: none;
+    position: relative;
+    box-shadow: 0px 1px 5px #9b9b9b;
+    font-size: 21px;
+    transition: all .3s ease-in-out;
+}
+
+    .notification-wrapper::after {
+        content: '';
+        position: absolute;
+        bottom: 20px;
+        width: 60%;
+        height: 10px;
+        box-shadow: 0 21px 9px rgba(0,0,0,.5);
+        z-index: -1;
+        transition: all .3s ease-in-out;
+    }
+
+    .notification-wrapper::after {
+        right: 15px;
+        transform: skew(12deg) rotate(2deg);
+    }
+
+    .notification-wrapper:hover::after {
+        box-shadow: 0 2px 14px rgba(0,0,0,.4);
+        right: 5px;
+    }
+
+.pin {
+    position: absolute;
+    top: -7px;
+    left: 5px;
+    width: 44px;
+    height: 38px;
+}
+
+footer {
+    height: 60px;
+    width: 100%;
+    z-index: 998;
+    background-color: #722362;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0;
+}
+
+.footer-page-controls {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+
+    .footer-page-controls > .page-button {
+        height: 42px;
+        width: 42px;
+        border: 2px solid white;
+        border-radius: 50%;
+        margin: 8px;
+        background-color: #722362;
+        color: rgba(255, 255, 255, 1);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+        .footer-page-controls > .page-button.disabled {
+            color: rgba(255, 255, 255, .5);
+            border: 2px solid rgba(255, 255, 255, .5);
+            cursor: not-allowed;
+        }
+
+        .footer-page-controls > .page-button:focus {
+            color: #D2DB0E;
+            border: 3px solid #D2DB0E;
+        }
+
+        .footer-page-controls > .page-button:hover {
+            background-color: #fff;
+            color: #722362;
+        }
+
+        .footer-page-controls > .page-button.disabled:hover {
+            background-color: rgba(255, 255, 255, .5);
+        }
+
+#introPageFooter {
+    display: none;
+    position: unset;
+    align-items: flex-end;
+    background-color: #ffffff;
+    border-top: 2px solid rgb(224, 224, 224);
+}
+
+#btnStartLesson {
+    width: unset;
+    border: 0;
+    border-radius: 3px;
+    padding: 8px 32px 8px 22px;
+    white-space: nowrap;
+    color: #000;
+    background-color: #ffffff;
+    font-weight: 500;
+    margin: 8px 10px;
+}
+
+    #btnStartLesson:hover,
+    #btnStartLesson:focus {
+        color: #ffffff;
+        background-color: #26a69a;
+    }
+
+    #btnStartLesson > i {
+        font-weight: 500;
+    }
+
+.doc-types-wrapper {
+    display: flex;
+}
+
+.doc-types {
+    flex: 1;
+    display: flex;
+}
+
+    .doc-types > div {
+        cursor: default;
+        margin: 0 5px 0 0;
+        width: 140px;
+    }
+
+        .doc-types > div.hide {
+            display: none;
+        }
+
+    .doc-types span {
+        border: 1px solid #d5d5d5;
+        border-radius: 20px;
+        color: #666666;
+        display: inline-block;
+        font-size: 12px;
+        text-align: center;
+        width: 100%;
+    }
+
+    .doc-types .arrow-down {
+        border-color: transparent;
+        border-width: 7px;
+        border-style: solid;
+        margin: 0 auto;
+        width: 0px;
+    }
+
+    .doc-types .active span {
+        background-color: rgb(248, 247, 205);
+        border-color: rgb(203, 218, 87);
+    }
+
+    .doc-types .active .arrow-down {
+        border-color: rgb(203, 218, 87) transparent transparent transparent;
+    }
+
+        .doc-types .active .arrow-down:after {
+            border-color: rgb(248, 247, 205) transparent transparent transparent;
+            border-style: solid;
+            border-width: 8px;
+            content: "";
+            margin: 0 auto;
+            margin-left: -8px;
+            margin-top: -9px;
+            position: fixed;
+        }
+
+.breadcrumbs-wrapper {
+    display: flex;
+}
+
+.back-to-intro-wrapper {
+    flex: 1;
+    display: flex;
+    padding-left: 25px;
+}
+
+#btnBackToIntro {
+    cursor: pointer;
+    color: rgba(51, 51, 51, 1);
+    background-color: white;
+    border: 2px solid #979797;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 0 8px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+    #btnBackToIntro:hover,
+    #btnBackToIntro:focus {
+        background-color: #b2ba05;
+        border-color: #b2ba05;
+    }
+
+.completion-status {
+    display: flex;
+}
+
+.lesson-completion {
+    display: flex;
+    align-items: center;
+    color: #333;
+}
+
+    .lesson-completion:hover,
+    .lesson-completion:hover > i {
+        color: #EA067E;
+    }
+
+    .lesson-completion > span {
+        font-size: 1rem;
+        margin-right: 5px;
+        padding-left: 5px;
+    }
+
+#completionStatusIconIcon {
+    font-size: 2.5rem;
+}
+
+.hidden-from-screen {
+    position: fixed;
+    left: -99999px;
+}
+
+.lesson-notes-alert {
+    color: #722362;
+    margin: auto 0px;
+    padding: 0px 5px;
+}
+
+.indicates-lesson-notes-container {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    font-style: italic;
+    line-height: 13px;
+}
+
+.indicates-lesson-notes-icon {
+    color: #722362;
+    margin: auto 0px;
+    padding: 0px 5px;
+}
+
+.lesson-note-selection-dropdown {
+    background-color: #000000;
+}
+
+    .lesson-note-selection-dropdown li {
+        font-size: 16px;
+        display: block;
+    }
+
+        .lesson-note-selection-dropdown li > a {
+            font-size: 16px;
+            color: #ffffff;
+            display: block;
+            line-height: 22px;
+            padding: 14px 16px
+        }
+
+            .lesson-note-selection-dropdown li > a:focus,
+            .lesson-note-selection-dropdown li > a:hover,
+            body.keyboard-focused .lesson-note-selection-dropdown.dropdown-content li:focus,
+            .lesson-note-selection-dropdown.dropdown-content li:hover,
+            .lesson-note-selection-dropdown.dropdown-content li.active {
+                background-color: #BF0366 !important;
+            }
+
+.dropdown-content {
+    box-shadow: none !important;
+}
+
+.dropdown-arrow {
+    display: flex !important;
+    justify-content: center;
+    flex-wrap: nowrap;
+    line-height: 13px !important;
+    background-color: #ffffff;
+    height: 10px !important;
+    color: #000000;
+    font-size: 50px !important;
+}
+
+.has-custom-content-icon-container {
+    max-height: 30px;
+    display: inline-block;
+    align-items: center;
+    margin-left: 5px;
+}
+
+.has-custom-content-icon {
+    position: relative;
+    top: 2px;
+    font-size: 25px;
+    color: rgba(119, 113, 122, 1);
+}
+
+#modifyCustomLessonContent {
+    border-bottom: 2px solid rgb(224, 224, 224);
+    display: flex;
+    justify-content: flex-end;
+}
+
+    #modifyCustomLessonContent button {
+        align-items: center;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: 5px;
+        color: rgba(0, 0, 0, 0.65);
+        cursor: pointer;
+        display: inline-flex;
+        font-weight: 600;
+        margin-bottom: 2px;
+        margin-left: 20px;
+        min-width: 80px;
+    }
+
+        #modifyCustomLessonContent button:focus,
+        #modifyCustomLessonContent button:hover {
+            border: 1px solid #EA067E;
+            border-radius: 5px;
+            background-color: #EA067E;
+            color: white;
+        }
+
+    #modifyCustomLessonContent .material-icons {
+        color: inherit;
+        margin-right: 3px;
+    }
+
+        #modifyCustomLessonContent .material-icons:hover {
+            color: white;
+        }
+
+.intro-page-editor {
+    width: 100%;
+    height: 100%;
+}
+
+
+#addPageModal.add-intro-page-modal {
+    width: 80%;
+    height: 80%;
+}
+
+#addPageModal.modal.modal-fixed-footer {
+    max-height: 80%;
+}
+
+#addPageModal h1:focus {
+    outline: none;
+}
+
+#addPageModal .add-intro-page-narrative {
+    padding: 10px 0px;
+}
+
+#addPageModal .add-intro-main-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+#addPageModal .modal-body {
+    height: 100%;
+}
+
+#addPageModal .modal-body-container {
+    height: calc(100% - 64px);
+    display: flex;
+    flex-direction: column;
+    min-height: 50px;
+}
+
+#addPageModal .editor-container {
+    height: 100%;
+}
+
+#addPageModal label {
+    color: #000000;
+    font-weight: 600;
+}
+
+#addPageModal .ck.ck-editor,
+#addPageModal .ck.ck-editor__editable {
+    height: calc(100% - 35px);
+}
+
+#addPageModal .ck.ck-editor.editor-dynamic-height,
+#addPageModal .ck.ck-editor__editable.editor-dynamic-height {
+    height: auto !important;
+}
+
+#addPageModal .ck.ck-editor__main {
+    height: 100%;
+    padding-bottom: 75px;
+}
+
+#addPageModal.modal .modal-footer {
+    height: 65px;
+    z-index: 100; /* This keeps the CKEditor dropdown arrows from overlapping on small screens. */
+}
+
+
+#addPageModal .cancel-link {
+    display: inline;
+}
+
+.cancel-link, .invalid-intro-content {
+    margin: auto 0px;
+    margin-left: 30px;
+}
+
+    .cancel-link > a {
+        text-decoration: underline;
+        color: black;
+    }
+
+.save-custom-button {
+    background-color: #722362;
+    text-transform: none;
+}
+
+    .save-custom-button input {
+        color: #fff;
+    }
+
+    .save-custom-button:hover,
+    .save-custom-button:focus {
+        background-color: #EA067E;
+    }
+
+.confirmation-modal {
+    max-height: 250px;
+}
+
+.intro-header-teacher {
+    margin-bottom: 10px;
+}
+
+.intro-header-teacher select {
+    margin-bottom: 5px;
+}
+
+.intro-header-teacher i {
+    margin-right: 5px;
+    color: #77717A;
+}
+
+.intro-header-teacher .auto-assigned-msg,
+.intro-header-teacher .inactive-teacher-msg {
+    display: flex;
+    align-items: center;
+}
+
+.inactive-teacher-msg i {
+    color: #EA067E;
+}
+
+.inactive-teacher-border {
+    border: 2px solid #EA067E;
+}
+
+/*
+ * The next few styles are used to allow CK Editor to be compatible 
+ * with the Materialize CSS modal it resides in
+ * https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/css.html#compatibility-with-materialize
+ */
+    body {
+        /* We need to assign this CSS Custom property to the body instead of :root, because of CSS Specificity and codepen stylesheet placement before loaded CKE5 content. */
+        --ck-z-default: 100;
+        --ck-z-modal: calc( var(--ck-z-default) + 999 );
+    }
+
+/* We need to overwrite default Materialize strong appearance.
+   See: https://github.com/Dogfalo/materialize/blob/v1-dev/sass/components/_typography.scss#L41.
+ */
+.ck.ck-content strong {
+    font-weight: bold;
+}
+
+/* We need to overwrite default Materialize list appearance. 
+ * See: https://github.com/ckeditor/ckeditor5/issues/1672. 
+ */
+.ck.ck-content ul,
+.ck.ck-content ul li {
+    list-style-type: inherit;
+}
+
+.ck.ck-content ul {
+    /* Default user agent stylesheet. */
+    padding-left: 40px;
+}
+
+/* We need to overwrite default Materialize input appearance. 
+  * See: https://github.com/Dogfalo/materialize/blob/v1-dev/sass/components/forms/_input-fields.scss#L10-L40 
+  */
+.ck input.ck-input.ck-input-text {
+    box-shadow: var(--ck-inner-shadow),0 0;
+    background: var(--ck-color-input-background);
+    border: 1px solid var(--ck-color-input-border);
+    padding: var(--ck-spacing-extra-tiny) var(--ck-spacing-medium);
+    transition-property: box-shadow,border;
+    transition: .2s ease-in-out;
+    height: inherit;
+    width: inherit;
+    font-size: inherit;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+    .ck input.ck-input.ck-input-text:focus {
+        border: var(--ck-focus-ring);
+        box-shadow: var(--ck-focus-outer-shadow),var(--ck-inner-shadow);
+    }
+
+
+.visually-hidden {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+}
+
+.invalid-intro-content {
+    background-image: url(/images/iconSprites.png?v=i2);
+    background-repeat: no-repeat;
+}
+
+/*
+	Material break points
+	Small screens are defined as having a max-width of 600px
+	Medium screens are defined as having a max-width of 992px
+	Large screen are defined as having a min-width of 993px
+	Extra Large screen are defined as having a min-width of 1200px
+*/
+@media screen and (min-width: 993px) {
+    .hide-on-large-only {
+        visibility: hidden;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .absolute-content-wrapper {
+        top: 60px;
+        width: 100%;
+        padding: 0;
+        border: none;
+        right: 0px;
+        margin-right: 0;
+    }
+
+    header {
+        height: 60px;
+    }
+
+        header nav {
+            height: 60px;
+            padding-bottom: 0;
+            border-bottom: 0;
+        }
+
+    .header-title {
+        font-size: 20px;
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .header-buttons-right {
+        margin-right: 0;
+    }
+
+    .header-button {
+        font-size: 14px;
+        line-height: 150%;
+    }
+
+    .back-to-intro-wrapper {
+        padding: 0;
+    }
+
+    #btnBackToIntro {
+        margin: 3px;
+    }
+
+    .lesson-completion {
+        border: 2px solid white;
+    }
+
+        .lesson-completion:focus {
+            border: 2px solid #D2DB0E;
+            outline: none;
+        }
+
+    .progress {
+        margin: 0;
+    }
+
+    #lmuLoadingImageContainer {
+        margin-top: 14px;
+    }
+
+    #notifications.polaris {
+        margin-top: 7px;
+    }
+
+    .notification-wrapper {
+        padding: 25px 20px 25px 40px;
+        margin: 0 16px 7px;
+    }
+
+    .content-items {
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+        .content-items.lesson-footer-visible {
+            height: calc(100% - 60px);
+            margin-bottom: 60px;
+        }
+
+    .content-items-top {
+        width: unset;
+        margin: 0;
+    }
+
+    .doc-types-wrapper {
+        display: inline-block;
+    }
+
+    .doc-types {
+        margin: 0 5px;
+    }
+
+    #introPageFooter {
+        position: fixed;
+        bottom: 0;
+    }
+
+    #lessonContentIFrame.showing-intro {
+        height: calc(100% - 60px);
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .feedback-content .star-rating i {
+        font-size: 2.7rem;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #btnMenu {
+        display: inline-block;
+    }
+
+    .header-title {
+        font-size: 16px;
+        text-align: left;
+        margin-right: 14px;
+    }
+
+    .header-buttons-left,
+    .header-buttons-right .hide-on-xs {
+        display: none;
+    }
+
+    header nav {
+        padding-top: 0;
+    }
+
+    .bread-crumb.hide-on-xs {
+        display: none !important;
+    }
+
+    #slideOutMenu {
+        display: flex;
+    }
+
+    .modal-header h1 {
+        font-size: 1.5rem;
+        line-height: 100%;
+    }
+
+    .notification-wrapper {
+        font-size: 14px;
+    }
+
+}
+
+/* 
+    This is an unusual breakpoint but it is where the info icon in the 
+    add intro page modal starts to look too small. The text has wrapped by this point.
+*/
+@media screen and (max-width: 630px) {
+    .auto-assigned-msg i.tiny,
+    .inactive-teacher-msg i.tiny {
+        font-size: 2rem;
+    }
+}

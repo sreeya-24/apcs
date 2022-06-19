@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BasicJean
+comment0.text=\n\ BasicJean\ is\ a\ basic\ pair\ of\ jeans\n\ \n\ \uFFFDFLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 5/10/2007\n
+comment1.params=n
+comment1.target=BasicJean(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ basicJean\n
+comment2.params=
+comment2.target=void\ design()
+comment3.params=
+comment3.target=int\ getNumPockets()
+comment4.params=n
+comment4.target=void\ setNumPockets(int)
+numComments=5

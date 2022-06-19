@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShowASCII
+comment0.text=\n\ This\ program\ prints\ the\ ASCII\ characters\ that\ correspond\ to\ ASCII\ values,\ and\n\ prints\ the\ ASCII\ values\ that\ correspond\ to\ specific\ ASCII\ characters.\n\ \n\ Notice\ that\ (int)\ is\ used\ to\ cast\ a\ character\ literal\ to\ its\ corresponding\ ASCII\ value,\ and\n\ that\ (char)\ is\ used\ to\ cast\ an\ ASCII\ value\ to\ its\ corresponding\ character\ literal.\n\ \n\ FLVS\ 2007\n\ @author\ B.\ Jordan\n\ @version\ 01/19/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

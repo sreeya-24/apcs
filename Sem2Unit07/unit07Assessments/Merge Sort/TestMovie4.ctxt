@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TestMovie4
+comment0.text=\n\ Write\ a\ description\ of\ class\ TestMovie4\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ addMovies()
+comment2.params=movies\ low\ high
+comment2.target=void\ sortTitles(Movie4[],\ int,\ int)
+comment3.params=movies\ low\ high
+comment3.target=void\ sortYears(Movie4[],\ int,\ int)
+comment4.params=movies\ low\ high
+comment4.target=void\ sortStudios(Movie4[],\ int,\ int)
+comment5.params=movies\ low\ mid\ high
+comment5.target=void\ mergeTitles(Movie4[],\ int,\ int,\ int)
+comment6.params=movies\ low\ mid\ high
+comment6.target=void\ mergeYears(Movie4[],\ int,\ int,\ int)
+comment7.params=movies\ low\ mid\ high
+comment7.target=void\ mergeStudios(Movie4[],\ int,\ int,\ int)
+comment8.params=movies
+comment8.target=void\ printMovies(Movie4[])
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

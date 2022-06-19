@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestCube
+comment0.text=\n\ This\ program\ inherits\ properties\ and\ methods\ from\ the\ Rectangle\ class\ and\ prints\ out\ the\ dimensions.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 3/06/2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

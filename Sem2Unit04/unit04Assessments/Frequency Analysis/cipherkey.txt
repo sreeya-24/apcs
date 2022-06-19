@@ -1,0 +1,47 @@
+﻿Cipher Key, Decoded message, and Questions
+
+
+Cipher Key
+a = I
+b = not used
+c = not used
+d = not used
+e = not used
+f = S
+g = C
+h = U
+i = T
+j = not used
+k = A
+l = not used
+m = B
+n = M
+o = F
+p =V
+q = H
+r = Y
+s = L
+t = G
+u = not used
+v = D
+w = N
+x = R
+y = O
+z = E
+
+
+Evaluation Questions:
+1. What difficulties did you run into writing the frequency analysis program? How did you resolve these problems? 
+In the beginning, we didn’t get the average and just printed out the total number which caused us to get the wrong message. But after finding the average, the texts were more accurate.
+
+
+2. How closely did the frequencies of letters in the plaintext and the ciphertext correspond? What could be done to improve the accuracy of the correspondence? 
+They somewhat corresponded. There were some values that were close to each other so it was all trial and error. To improve accuracy, maybe it would be better to just use all lowercase or all uppercase.
+
+
+3. This assessment involved writing a program and then interpreting the results the old fashioned way. Propose an extension to this project that would allow the computer to do all the work so that you only have to evaluate whether the decoded message makes sense. You don’t need to actually write another program to do this, just consider how it could be done and clearly describe your solution in a well-written paragraph.
+I think we decrypt the sentence instead of doing it manually. I remember doing an encryption and decryption project and I think we could do something similar to that to decrypt the message.
+
+
+Decoded Message: 
+First I believe that this nation should commit itself to achieving the goal before this decade is out of landing a man on the moon and returning him safely.

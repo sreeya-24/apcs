@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestJacket
+comment0.text=\n\ tests\ the\ jeanJacket\ class\ that\ implements\ jeanEffects\n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 5/10/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

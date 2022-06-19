@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TestInventory5
+comment0.text=\n\ TestInventory5\ .\n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 6/18/2007\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ printInventory(InventoryItem[])
+comment3.params=list\ find\ replace
+comment3.target=void\ changeItem(InventoryItem[],\ java.lang.String,\ java.lang.String)
+comment4.params=list\ location\ addN\ addS
+comment4.target=void\ insertItem1(InventoryItem[],\ int,\ java.lang.String,\ int)
+comment5.params=list\ find\ addN\ addS
+comment5.target=void\ insertItem2(InventoryItem[],\ java.lang.String,\ java.lang.String,\ int)
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BeadedJean2
+comment0.text=\n\ BeadedJean2\ is\ a\ BasicJean\ with\ beads\ designed\ in\ a\ pattern\n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 6/1/2007\n
+comment1.params=np\ nb\ s
+comment1.target=BeadedJean2(int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ beadedJean2\n
+comment2.params=
+comment2.target=void\ design()
+comment3.params=
+comment3.target=int\ getNumBeads()
+comment4.params=
+comment4.target=java.lang.String\ getPattern()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=obj
+comment6.target=boolean\ equals(BeadedJean2)
+numComments=7

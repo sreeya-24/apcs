@@ -1,0 +1,12 @@
+﻿/**
+ * NOTE
+ *
+ * W HIGGINS (10/25/2021)
+ * If you make changes to this file, you need to update the appended version to the bundle reference in _Layout.cshtml
+ * This should be located around line 16/17.
+ */
+
+.debug  
+{
+	display: none 
+}

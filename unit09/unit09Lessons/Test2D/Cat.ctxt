@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cat\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=v\ deg
+comment1.target=Cat(double,\ double)
+comment2.params=
+comment2.target=double\ getVelocity()
+comment3.params=
+comment3.target=double\ getDegrees()
+comment4.params=
+comment4.target=double\ getDistance()
+comment5.params=
+comment5.target=void\ calcDistance()
+numComments=6

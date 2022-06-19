@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CaesarShiftDecryption
+comment0.text=\n\ This\ class\ decrypts\ the\ user's\ message.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/10/2022\n
+comment1.params=msg\ key
+comment1.target=CaesarShiftDecryption(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CaesarShiftEncryption\n
+comment2.params=
+comment2.target=java.lang.String\ getMesssage()
+comment2.text=\n\ get\ method\ for\ message\n
+comment3.params=
+comment3.target=int\ getShiftKey()
+comment3.text=\n\ get\ method\ for\ the\ shift\ key\n
+comment4.params=
+comment4.target=java.lang.String\ decrypt()
+comment4.text=\n\ method\ for\ decrypting\n
+numComments=5

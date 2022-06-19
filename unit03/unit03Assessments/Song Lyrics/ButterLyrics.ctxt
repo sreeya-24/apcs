@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ButterLyrics
+comment0.text=\n\ This\ program\ prints\ the\ verses\ and\ choruses\ of\ the\ song\ Butter\ from\ BTS.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 11/6/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

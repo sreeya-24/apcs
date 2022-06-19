@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StudentTester
+comment1.params=
+comment1.target=void\ addCandidates()
+comment2.params=
+comment2.target=void\ printBook()
+comment3.params=origName\ newName
+comment3.target=void\ replaceName(java.lang.String,\ java.lang.String)
+comment4.params=origName\ quizNumber\ quizValue
+comment4.target=void\ replaceQuiz(java.lang.String,\ int,\ int)
+comment5.params=origName\ newName\ scores
+comment5.target=void\ replaceStudent(java.lang.String,\ java.lang.String,\ int[])
+comment6.params=gradeBook\ origName\ newName\ scores
+comment6.target=void\ insertStudent(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int[])
+comment7.params=gradeBook\ origName
+comment7.target=void\ deleteStudent(java.util.ArrayList,\ java.lang.String)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LargestInStock
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=List
+comment2.target=void\ largest(InventoryItem[])
+numComments=3

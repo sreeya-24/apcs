@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TestMusic
+comment0.text=\n\ This\ program\ demonstrates\ the\ concept\ of\ sequential\ searching.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 05/01/2022\n
+comment1.params=music\ toFind
+comment1.target=void\ searchTitle(Music[],\ java.lang.String)
+comment2.params=music\ toFind
+comment2.target=void\ searchYear(Music[],\ int)
+comment3.params=music\ toFind
+comment3.target=void\ searchSinger(Music[],\ java.lang.String)
+comment4.params=music
+comment4.target=void\ printMusic(Music[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

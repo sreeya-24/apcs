@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CurrencyConversionV1
+comment0.text=\n\ The\ CurrencyConversion\ class\ converts\ an\ amount\ of\ money\ from\ a\ specific\n\ country\ into\ the\ equivalent\ currency\ of\ another\ country\ given\ the\ current\ \n\ exchange\ rate.\n\ \n\n\ CSA/FLVS\ 2007\n\ @author\ Maria\ Vieta\ Jacquard\ \n\ @version\ 01/19/07\n\ \n\ CSA/FLVS\ 2021\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 10/31/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TestCandidate7
+comment0.text=\n\ This\ program\ demonstrates\ the\ concept\ of\ deletion\ and\ transverse.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/23/2022\n
+comment1.params=
+comment1.target=void\ addCandidates()
+comment2.params=
+comment2.target=void\ printVotes()
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=candidate\ position
+comment4.target=void\ deleteByLoc(Candidate[],\ int)
+comment4.text=public\ static\ void\ insertCandidate(Candidate[]\ candidate,\ String\ findName,\ String\ insertName,\ int\ insertVotes)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ int\ position\ \=\ 0;\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ candidate.length;\ i++)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ if(candidate[i].getName().equals(findName))\n\ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ position\ \=\ i;\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ for(int\ i\ \=\ candidate.length\ -\ 1;\ i\ >\ position;\ i--)\n\ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ candidate[i]\ \=\ candidate[i\ -\ 1];\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ candidate[position]\ \=\ new\ Candidate(insertName,\ insertVotes);\n}
+comment5.params=candidate\ findName
+comment5.target=void\ deleteByName(Candidate[],\ java.lang.String)
+comment6.params=
+comment6.target=void\ printResults()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

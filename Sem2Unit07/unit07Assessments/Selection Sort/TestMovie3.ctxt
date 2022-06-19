@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestMovie3
+comment0.text=\n\ This\ program\ sorts\ an\ array\ of\ movies\ by\ their\ title,\ year,\ and\ studio\ using\ \n\ selection\ sorting.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/30/2022\n
+comment1.params=
+comment1.target=void\ addMovies()
+comment2.params=movies\ sortOrder
+comment2.target=java.lang.String[]\ sortTitles(Movie3[],\ int)
+comment3.params=movies\ sortOrder
+comment3.target=java.lang.Integer[]\ sortYears(Movie3[],\ int)
+comment4.params=movies\ sortOrder
+comment4.target=java.lang.String[]\ sortStudios(Movie3[],\ int)
+comment5.params=movies
+comment5.target=void\ printMovies(Movie3[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

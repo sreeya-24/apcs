@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\n\ This\ program\ will\ will\ display\ a\ series\ of\ strings\ \n\ stating\ my\ name,birthday,the\ school,etc.\n\n\ @author\ (Sreeya\ Gambhirrao)\n\ @version\ (9.30.2021)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

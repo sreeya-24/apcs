@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Boot
+comment0.text=\n\n\ @author\ |Your\ name|\n\ @version\ 1.0\ |Today's\ date|\n
+comment1.params=style\ size\ sku
+comment1.target=Boot(java.lang.String,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+numComments=3

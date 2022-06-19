@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculationsV1
+comment0.text=\n\ The\ Calculations\ class\ performs\ addition,\ subtraction,\n\ multiplication,\ division,\ and\ modulus\ operations\ on\ integers\ and\n\ decimals.\n\ \n\ FLVS\ 2007\n\ @author\ Bill\ Jordan\n\ @version\ 01/19/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

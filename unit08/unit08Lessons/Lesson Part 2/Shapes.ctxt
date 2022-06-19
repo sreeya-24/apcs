@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Shapes
+comment0.text=\n\ The\ Shapes\ class\ calcualtes\ the\ area\ and\ the\ \n\ hypoteneuse\ of\ a\ triangle.\n\ \n\ @author\ B.\ Jordan\ \n\ @version\ 05/31/07\n\ Lesson\:\ 08.06\n
+comment1.params=b\ h
+comment1.target=Shapes(int,\ int)
+comment2.params=
+comment2.target=double\ calcTriArea()
+comment3.params=
+comment3.target=double\ calcHypoteneuse()
+numComments=4

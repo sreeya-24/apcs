@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=JeanEffects
+comment0.text=\n\n\ interface\ JeanEffects\n\n\ \n\n\ FLVS\ 2007\n\n\ @author\ R.\ Enger\ \n\n\ @version\ 5/10/2007\n\n
+comment1.params=
+comment1.target=void\ fadeJeans()
+comment2.params=
+comment2.target=void\ addHoles()
+numComments=3

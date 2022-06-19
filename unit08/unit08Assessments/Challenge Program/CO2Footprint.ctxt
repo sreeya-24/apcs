@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CO2Footprint
+comment0.text=\n\ Write\ a\ description\ of\ class\ CO2Footprint\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=gasUsed\ electrictyUsed\ electrictyPrice\ houseHold\ paper\ plastic\ glass\ cans\ lightBulbs
+comment1.target=CO2Footprint(double,\ double,\ double,\ int,\ boolean,\ boolean,\ boolean,\ boolean,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CO2Footprint\n
+comment2.params=
+comment2.target=double\ calcCO2FromGasoline()
+comment2.text=\n\ This\ once\ calculated\ CO2\ emitted\ from\ Gasoline\ Used\n
+comment3.params=
+comment3.target=double\ calcCO2FromElectricity()
+comment3.text=\n\ a\ mutator\ method\ to\ calculate\ electricity\ \n\ \n
+comment4.params=
+comment4.target=double\ calcCO2ReducedFromRecycling()
+comment4.text=\n\ A\ method\ to\ calculate\ the\ waste\ reduction(no\ parameters)\n
+comment5.params=
+comment5.target=double\ calcCO2FromWaste()
+comment5.text=\n\ A\ method\ to\ calculate\ the\ gross\ waste\ reduction(no\ parameters)\n
+comment6.params=
+comment6.target=double\ calcCO2ReducedFromBulbs()
+comment6.text=\n\ A\ method\ to\ calculate\ the\ gross\ waste\ reduction(no\ parameters)\n
+numComments=7

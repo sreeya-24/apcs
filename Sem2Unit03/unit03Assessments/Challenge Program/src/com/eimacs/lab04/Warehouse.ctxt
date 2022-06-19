@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Warehouse
+comment0.text=\n\ This\ is\ a\ class\ from\ the\ Lab04.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1.0\ 04/03/2022\n
+comment1.params=binMax
+comment1.target=Warehouse(int)
+comment2.params=
+comment2.target=void\ addBin()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=fw\ units
+comment4.target=void\ receive(Footwear,\ int)
+numComments=5

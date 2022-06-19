@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Bin
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bin\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=Bin(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.util.ArrayList\ getContents()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=i
+comment5.target=void\ remove(int)
+comment6.params=
+comment6.target=int\ totalQuantity()
+comment7.params=b
+comment7.target=void\ add(BinItem)
+numComments=8

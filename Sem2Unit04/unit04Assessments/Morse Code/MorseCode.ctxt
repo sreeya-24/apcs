@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MorseCode
+comment1.params=s
+comment1.target=MorseCode(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MorseCode2\n
+comment2.params=
+comment2.target=void\ getDataForArray()
+comment2.text=\n\ This\ method\ reads\ through\ the\ file\ and\ adds\ it\ to\ the\ array\n\n
+comment3.params=
+comment3.target=void\ convStatement()
+comment3.text=\n\ This\ method\ converts\ the\ statement\ into\ morse\ code\ using\ ascii\ values.\n
+numComments=4

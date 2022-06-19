@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CarV7
+comment0.text=\n\ This\ program\ creates\ the\ functions\ for\ the\ three\ different\ cars.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/16/2022\n
+comment1.params=carType1\ sMiles1\ eMiles1\ gallons1\ price1
+comment1.target=CarV7(java.lang.String,\ int,\ int,\ double,\ double)
+comment10.params=
+comment10.target=double\ getPricePerGallon1()
+comment2.params=
+comment2.target=int\ calcDistance1()
+comment3.params=
+comment3.target=double\ calcMPG1()
+comment4.params=dist1
+comment4.target=double\ calcGPM1(int)
+comment5.params=
+comment5.target=double\ totalCost1()
+comment6.params=
+comment6.target=java.lang.String\ getCarType1()
+comment7.params=
+comment7.target=int\ getStartMiles1()
+comment8.params=
+comment8.target=int\ getEndMiles1()
+comment9.params=
+comment9.target=double\ getGallonsUsed1()
+numComments=11

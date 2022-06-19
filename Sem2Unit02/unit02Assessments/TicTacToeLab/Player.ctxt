@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Parent\ class\ for\ all\ Player\ objects.\ \n
+comment1.params=
+comment1.target=boolean\ makeMove()
+comment1.text=\n\ Attempts\ a\ move.\ \n\ @return\ True\ if\ the\ move\ results\ in\ a\ win.\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\n\ Returns\ the\ name\ of\ the\ Player.\n\ @return\ Name\ of\ the\ player.\n
+numComments=3

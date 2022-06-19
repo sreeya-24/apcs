@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Darts
+comment1.params=dartThrows\ numOfTrials
+comment1.target=double[]\ numOfHits(int,\ int)
+comment1.text=\n\ This\ function\ take\ number\ of\ darts\ and\ number\ of\ trials\ as\ function\ parameters\n\ This\ function\ return\ an\ array\ of\ pie\ values\ which\ are\ doubles\n
+comment2.params=pies
+comment2.target=void\ printTrialsWithAverage(double[])
+comment2.text=\n\ Below\ function\ takes\ array\ of\ doubles,\ which\ are\ pi\ values\ for\ each\ trail\n\ Computes\ Average\ Pi\ and\ prints\ them\ to\ the\ console\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

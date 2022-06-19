@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PrimeNumbers
+comment0.text=\n\ Write\ a\ description\ of\ class\ PrimeNumbers\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=limit
+comment1.target=PrimeNumbers(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PrimeNumbers\n
+comment2.params=
+comment2.target=int\ getLimit()
+comment3.params=
+comment3.target=java.lang.String\ calcPrime()
+numComments=4

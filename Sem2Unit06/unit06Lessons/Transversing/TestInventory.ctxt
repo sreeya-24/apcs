@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestInventory
+comment0.text=\n\ TestInventory\ \n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 6/10/2007\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ printInventory(InventoryItem[])
+numComments=3

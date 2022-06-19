@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MathMethodsDemo
+comment0.text=\n\ This\ class\ demonstrates\ the\ use\ of\ several\ members\ of\ the\ Math\ class\n\ \n\ \ \ \ \ NOTE\:\ There\ are\ 6\ segments\ of\ code\ below.\ \ The\ last\ five\ are\ commented\ out.\n\ \ \ \ \ \ \ \ \ \ \ Examine\ only\ one\ segment\ at\ a\ time.\ \ Experiment\ by\ the\ arguments\ of\ the\ methods.\n\ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ After\ you\ understand\ the\ code\ in\ one\ section,\ delete\ the\ slash\ and\ asterisk\ at\ the\ beginning\ of\ the\ next\ section\n\ \ \ \ \ \ \ \ \ \ \ and\ the\ asterisk\ and\ slash\ at\ the\ end\ of\ the\ section\ in\ order\ to\ continue\ experimenting.\n\ \n\ @author\ B.\ Jordan\ \n\ @version\ 02/01/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

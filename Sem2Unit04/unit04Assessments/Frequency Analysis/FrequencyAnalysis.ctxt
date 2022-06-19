@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FrequencyAnalysis
+comment0.text=\n\ This\ program\ counts\ the\ number\ of\ times\ each\ letter\ appears\ and\ convert\ it\ to\ ciphertext\ \n\ which\ is\ used\ to\ decode\ an\ encrypted\ message.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/16/2022\n
+comment1.params=file
+comment1.target=FrequencyAnalysis(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FrequencyAnalysis\n
+comment2.params=
+comment2.target=void\ analyzeFile()
+numComments=3

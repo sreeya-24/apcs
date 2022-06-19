@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Picture
+comment0.text=\n\ This\ program\ creates\ a\ ASCII\ Art\ stick\ figure.\n\ Notice\ when\ the\ escape\ character\ had\ to\ be\ used.\n\ \n\ FLVS\ 2007\n\ @author\ anonymous\ \n\ @version\ 03/01/07\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

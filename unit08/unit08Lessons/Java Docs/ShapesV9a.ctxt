@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ShapesV9a
+comment0.text=\n\ This\ class\ instantiates\ shapes\ objects\ with\ four\ private\ instance\ variables.\n\ It\ contains\ two\ mutator\ methods\ to\ calculate\ the\ area\ of\ a\ triangle\ and\ the\n\ hypoteneuse\ of\ a\ triangle.\ \ There\ are\ getter\ methods\ for\ each\ private\ instance\n\ variable.\ Private\ instance\ variables\ include\ mySide1,\ mySide2,\ myArea,\ and\ myHypoteneuse.\n\ \n\ @author\ B.\ Jordan\ \n\ @version\ 06/01/07\n
+comment1.params=s1\ s2
+comment1.target=ShapesV9a(int,\ int)
+comment1.text=\n\ Constructor\ for\ ojbects\ of\ type\ ShapesV9\n\ @param\ s1\ side\ 1\ of\ a\ triangle\n\ @param\ s2\ side\ 2\ of\ a\ triangle\n
+comment2.params=
+comment2.target=void\ calcTriArea()
+comment2.text=\n\ Mutator\ method\ to\ calculate\ the\ area\ of\ a\ triangle\ (no\ paramters).\ \n
+comment3.params=
+comment3.target=double\ getTriArea()
+comment3.text=\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ area\ of\ a\ triangle\ (no\ paramters).\n\ @return\ the\ area\ of\ a\ triangle.\n
+comment4.params=
+comment4.target=void\ calcHypoteneuse()
+comment4.text=\ \n\ Mutator\ method\ to\ calculate\ the\ hypoteneuse\ of\ a\ triangle\ (no\ paramters).\n
+comment5.params=
+comment5.target=double\ getHypoteneuse()
+comment5.text=\n\ Getter\ method\ to\ return\ the\ value\ of\ the\ hypoteneuse\ of\ a\ triangle\ (no\ paramters).\n\ @return\ the\ hypotenenuse\ of\ a\ triagnle.\n
+comment6.params=
+comment6.target=int\ getSide1()
+comment6.text=\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 1\ of\ a\ triangle\ (no\ paramters).\n\ @return\ side\ 1\ of\ a\ triangle.\n
+comment7.params=
+comment7.target=int\ getSide2()
+comment7.text=\n\ Getter\ method\ to\ return\ the\ value\ of\ side\ 2\ of\ a\ triangle\ (no\ paramters).\n\ @return\ side\ 2\ of\ a\ triangle.\n
+numComments=8

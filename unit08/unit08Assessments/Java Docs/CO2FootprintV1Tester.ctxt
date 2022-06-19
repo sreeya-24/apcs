@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2FootprintV1Tester
+comment0.text=\n\ This\ program\ calculates\ how\ much\ CO2\ is\ being\ emitted\ for\ the\ number\ of\ gallons\ projected\ \n\ annually.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/17/2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

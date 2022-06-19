@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TicTacToeBoardTest2
+comment0.text=\n\ The\ following\ is\ a\ short\ program\ that\ tests\ the\ coding\ of\ class\n\ TicTacToeBoard\ from\ Lab\ Exercise\ 2.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Use\ the\ special\ main\ method\ for\ testing\ the\ TicTacToeBoard\ class\ only.\n
+comment2.params=testCase\ passed
+comment2.target=void\ printMessage(java.lang.String,\ boolean)
+numComments=3

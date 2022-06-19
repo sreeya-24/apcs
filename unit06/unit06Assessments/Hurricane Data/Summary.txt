@@ -1,0 +1,5 @@
+Number of Category 1: 26
+Number of Category 2: 11
+Number of Category 3: 14
+Number of Category 4: 4
+Number of Category 5: 4

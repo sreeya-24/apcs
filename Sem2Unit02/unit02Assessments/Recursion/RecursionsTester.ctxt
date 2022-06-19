@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RecursionsTester
+comment1.params=
+comment1.target=Recursions()
+comment2.params=x
+comment2.target=int\ fOfCalc1(int)
+comment2.text=\n\ This\ method\ calculates\ the\ first\ piecewise\ function.\n\n\ @param\ \ x\ \n\ @return\ the\ function\ and\ -7\n
+comment3.params=x
+comment3.target=int\ fOfCalc2(int)
+comment3.text=\n\ This\ method\ calculates\ the\ second\ piecewise\ function.\n\n\ @param\ \ x\ \n\ @return\ the\ function\ and\ 20\n
+comment4.params=x
+comment4.target=int\ fOfCalc3(int)
+comment4.text=\n\ This\ method\ calculates\ the\ fourth\ piecewise\ function.\n\n\ @param\ \ x\ \n\ @return\ the\ function\ and\ -100\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

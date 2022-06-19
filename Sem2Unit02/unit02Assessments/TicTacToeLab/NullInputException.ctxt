@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NullInputException
+comment0.text=\n\ Exception\ for\ null\ user\ input.\n
+comment1.params=
+comment1.target=NullInputException()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InvalidInputException
+comment0.text=\n\ Exception\ for\ invalid\ user\ input.\n
+comment1.params=
+comment1.target=InvalidInputException()
+comment1.text=\n\ Default\ InvalidInputException.\n
+comment2.params=message
+comment2.target=InvalidInputException(java.lang.String)
+comment2.text=\n\ Allows\ creation\ of\ an\ InvalidInputException\ with\ a\ custom\ message.\n\ @param\ message\ Message\ detailing\ the\ cause\ of\ the\ exception.\n
+numComments=3

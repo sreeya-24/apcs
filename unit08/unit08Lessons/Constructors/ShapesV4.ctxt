@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ShapesV4
+comment0.text=\n\ Write\ a\ description\ of\ class\ ShapesV4\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ShapesV4()
+comment2.params=length\ width
+comment2.target=double\ calcRectArea(int,\ int)
+comment3.params=length\ width
+comment3.target=double\ calcRectPerimeter(int,\ int)
+comment4.params=r
+comment4.target=double\ calcCircumference(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CarV3
+comment0.text=\n\ This\ program\ calculates\ the\ miles\ per\ gallon(Gas\ Mileage)\ using\ the\ start\ miles,\ end\ miles,\ \n\ and\ the\ gallons.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/16/2022\n
+comment1.params=
+comment1.target=CarV3()
+comment2.params=sMiles\ eMiles
+comment2.target=int\ calcDistance(int,\ int)
+comment3.params=dist\ gals
+comment3.target=double\ calcMPG(int,\ double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

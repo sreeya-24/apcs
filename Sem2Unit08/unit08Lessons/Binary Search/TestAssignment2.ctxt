@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TestAssignment2
+comment0.text=\n\ class\ TestAssignment2\ \n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 6/29/2007\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=r
+comment2.target=void\ printRoster(Assignment[])
+comment3.params=r\ toFind
+comment3.target=void\ findPerson(Assignment[],\ java.lang.String)
+comment4.params=r\ toFind
+comment4.target=int\ binarySearch(Assignment[],\ java.lang.String)
+comment5.params=r\ toFind
+comment5.target=void\ binarySearch2(Assignment[],\ java.lang.String)
+comment6.params=r\ low\ toFind
+comment6.target=void\ linearPrint(Assignment[],\ int,\ java.lang.String)
+comment7.params=r\ toFind
+comment7.target=void\ findLocation(Assignment[],\ java.lang.String)
+comment8.params=a
+comment8.target=void\ bubbleSort(Assignment[])
+comment9.params=a
+comment9.target=void\ bubbleSort2(Assignment[])
+numComments=10

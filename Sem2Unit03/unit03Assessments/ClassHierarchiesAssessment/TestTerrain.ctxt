@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TestTerrain
+comment0.text=\n\ This\ project\ takes\ one\ super\ class,\ divides\ it\ into\ three\ different\ subclasses\ and\ uses\ class\ hierarchy\ to\ print\ out\ the\ \n\ dimensions\ and\ its\ attributes.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 03/19/2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

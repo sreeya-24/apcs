@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TestMusic2
+comment0.text=\n\ This\ program\ demonstrates\ the\ concept\ of\ binary\ search.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 05/01/2022\n
+comment1.params=music
+comment1.target=Music[]\ insertionSort(Music[])
+comment2.params=music\ toFind
+comment2.target=int\ searchTitle(Music[],\ java.lang.String)
+comment3.params=music\ toFind
+comment3.target=void\ searchYear(Music[],\ int)
+comment4.params=music\ toFind
+comment4.target=void\ searchSinger(Music[],\ java.lang.String)
+comment5.params=music
+comment5.target=void\ printMusic(Music[])
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

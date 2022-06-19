@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RecursivePalindrome
+comment0.text=\n\ This\ program\ takes\ the\ user\ input\ of\ a\ word\ or\ phrase,\ reverses\ it,\ and\ checks\ to\ see\ \n\ if\ it\ is\ a\ palindrome.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 2/21/2022\n
+comment1.params=
+comment1.target=RecursivePalindrome()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RecursivePalindrome\n
+comment2.params=s
+comment2.target=java.lang.String\ reverseString(java.lang.String)
+comment2.text=\n\ A\ method\ to\ reverse\ the\ string\n\n\ @param\ \ String\ s\n\ @return\ the\ reversed\ string\n
+comment3.params=s
+comment3.target=boolean\ isPolyndrome(java.lang.String)
+comment3.text=\n\ A\ method\ to\ check\ if\ reversed\ string\ is\ a\ palindrome\n\n\ @param\ \ String\ s\n\ @return\ whether\ string\ is\ palindrome(true\ or\ false)\n
+numComments=4

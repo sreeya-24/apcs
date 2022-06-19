@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BasicJean2
+comment0.text=\n\ BasicJean2\ is\ a\ basic\ pair\ of\ jeans\n\ \n\ FLVS\ 2007\n\ @author\ R.\ Enger\ \n\ @version\ 6/1/2007\n
+comment1.params=n\ s
+comment1.target=BasicJean2(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ basicJean\n
+comment2.params=
+comment2.target=void\ design()
+comment3.params=
+comment3.target=int\ getNumPockets()
+comment4.params=n
+comment4.target=void\ setNumPockets(int)
+comment5.params=
+comment5.target=int\ getSize()
+comment6.params=obj
+comment6.target=int\ compareTo(BasicJean2)
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TextMessageV1
+comment0.text=\n\ This\ program\ takes\ a\ couple\ of\ phrases\ from\ one\ text\ message\ and\ abbreviates\ them\ in\ the\ same\ text\ message.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 11/7/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

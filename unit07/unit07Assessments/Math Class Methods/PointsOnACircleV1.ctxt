@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PointsOnACircleV1
+comment0.text=\n\ This\ program\ calculates\ the\ x\ and\ y\ cordinates\ of\ a\ circle\ with\ radius\ 1.0\ using\ the\ Math\ \n\ class\ methods.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/4/2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

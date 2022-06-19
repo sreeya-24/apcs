@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FibonacciNumbers
+comment1.params=
+comment1.target=Fibonacci()
+comment2.params=x
+comment2.target=int\ fOfFibonacci(int)
+comment2.text=\n\ \n\ @return\ the\ function,\ 0,\ and\ 1\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

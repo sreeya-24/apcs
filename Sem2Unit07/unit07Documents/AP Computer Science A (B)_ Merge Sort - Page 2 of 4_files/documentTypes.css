@@ -1,0 +1,635 @@
+﻿/* Getting started document type borders */
+#lmuBorderTop.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_GettingStarted.gif');
+}
+#lmuBorderTopLeft.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_GettingStarted.gif');
+}
+#lmuBorderTopRight.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_GettingStarted.gif');
+}
+#lmuBorderLeft.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_GettingStarted.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_GettingStarted.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_GettingStarted.gif');
+}
+#lmuBorderBottomLeft.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_GettingStarted.gif');
+}
+#lmuBorderBottomRight.docTypeGettingStarted,
+div.docTypeGettingStarted #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_GettingStarted.gif');
+}
+/* Instruction document type borders */
+#lmuBorderTop.docTypeInstruction,
+div.docTypeInstruction #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Instruction.gif');
+}
+#lmuBorderTopLeft.docTypeInstruction,
+div.docTypeInstruction #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Instruction.gif');
+}
+#lmuBorderTopRight.docTypeInstruction,
+div.docTypeInstruction #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Instruction.gif');
+}
+#lmuBorderLeft.docTypeInstruction,
+div.docTypeInstruction #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Instruction.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeInstruction,
+div.docTypeInstruction #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Instruction.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeInstruction,
+div.docTypeInstruction #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Instruction.gif');
+}
+#lmuBorderBottomLeft.docTypeInstruction,
+div.docTypeInstruction #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Instruction.gif');
+}
+#lmuBorderBottomRight.docTypeInstruction,
+div.docTypeInstruction #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Instruction.gif');
+}
+/* Activity document type borders */
+#lmuBorderTop.docTypeActivity,
+div.docTypeActivity #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Activity.gif');
+}
+#lmuBorderTopLeft.docTypeActivity,
+div.docTypeActivity #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Activity.gif');
+}
+#lmuBorderTopRight.docTypeActivity,
+div.docTypeActivity #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Activity.gif');
+}
+#lmuBorderLeft.docTypeActivity,
+div.docTypeActivity #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Activity.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeActivity,
+div.docTypeActivity #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Activity.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeActivity,
+div.docTypeActivity #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Activity.gif');
+}
+#lmuBorderBottomLeft.docTypeActivity,
+div.docTypeActivity #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Activity.gif');
+}
+#lmuBorderBottomRight.docTypeActivity,
+div.docTypeActivity #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Activity.gif');
+}
+/* Review document type borders */
+#lmuBorderTop.docTypeReview,
+div.docTypeReview #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Review.gif');
+}
+#lmuBorderTopLeft.docTypeReview,
+div.docTypeReview #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Review.gif');
+}
+#lmuBorderTopRight.docTypeReview,
+div.docTypeReview #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Review.gif');
+}
+#lmuBorderLeft.docTypeReview,
+div.docTypeReview #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Review.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeReview,
+div.docTypeReview #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Review.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeReview,
+div.docTypeReview #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Review.gif');
+}
+#lmuBorderBottomLeft.docTypeReview,
+div.docTypeReview #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Review.gif');
+}
+#lmuBorderBottomRight.docTypeReview,
+div.docTypeReview #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Review.gif');
+}
+/* Assessment document type borders */
+#lmuBorderTop.docTypeAssessment,
+div.docTypeAssessment #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Assessment.gif');
+}
+#lmuBorderTopLeft.docTypeAssessment,
+div.docTypeAssessment #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Assessment.gif');
+}
+#lmuBorderTopRight.docTypeAssessment,
+div.docTypeAssessment #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Assessment.gif');
+}
+#lmuBorderLeft.docTypeAssessment,
+div.docTypeAssessment #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Assessment.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeAssessment,
+div.docTypeAssessment #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Assessment.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeAssessment,
+div.docTypeAssessment #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Assessment.gif');
+}
+#lmuBorderBottomLeft.docTypeAssessment,
+div.docTypeAssessment #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Assessment.gif');
+}
+#lmuBorderBottomRight.docTypeAssessment,
+div.docTypeAssessment #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Assessment.gif');
+}
+/* Time To Talk document type borders */
+#lmuBorderTop.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_TimeToTalk.gif');
+}
+#lmuBorderTopLeft.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_TimeToTalk.gif');
+}
+#lmuBorderTopRight.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_TimeToTalk.gif');
+}
+#lmuBorderLeft.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_TimeToTalk.gif');
+  width: 15px;
+}
+#lmuBorderRight.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_TimeToTalk.gif');
+  width: 15px;
+}
+#lmuBorderBottom.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_TimeToTalk.gif');
+}
+#lmuBorderBottomLeft.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_TimeToTalk.gif');
+}
+#lmuBorderBottomRight.docTypeTimetoTalk,
+div.docTypeTimetoTalk #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_TimeToTalk.gif');
+}
+/* IEXCEL Doc Types borders */
+#lmuBorderTop.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Inquire.gif');
+}
+#lmuBorderTopLeft.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Inquire.gif');
+}
+#lmuBorderTopRight.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Inquire.gif');
+}
+#lmuBorderLeft.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Inquire.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Inquire #lmuBorderLeft {
+  margin-left: -5px;
+}
+#lmuBorderRight.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Inquire.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Inquire #lmuBorderRight {
+  margin-right: -5px;
+}
+#lmuBorderBottom.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Inquire.gif');
+}
+#lmuBorderBottomLeft.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Inquire.gif');
+}
+#lmuBorderBottomRight.docTypeIEXCEL-Inquire,
+div.docTypeIEXCEL-Inquire #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Inquire.gif');
+}
+#lmuBorderTop.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Explore.gif');
+}
+#lmuBorderTopLeft.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Explore.gif');
+}
+#lmuBorderTopRight.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Explore.gif');
+}
+#lmuBorderLeft.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Explore.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Explore #lmuBorderLeft {
+  margin-left: -5px;
+}
+#lmuBorderRight.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Explore.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Explore #lmuBorderRight {
+  margin-right: -5px;
+}
+#lmuBorderBottom.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Explore.gif');
+}
+#lmuBorderBottomLeft.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Explore.gif');
+}
+#lmuBorderBottomRight.docTypeIEXCEL-Explore,
+div.docTypeIEXCEL-Explore #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Explore.gif');
+}
+#lmuBorderTop.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Communicate.gif');
+}
+#lmuBorderTopLeft.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Communicate.gif');
+}
+#lmuBorderTopRight.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Communicate.gif');
+}
+#lmuBorderLeft.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Communicate.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderLeft {
+  margin-left: -5px;
+}
+#lmuBorderRight.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Communicate.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderRight {
+  margin-right: -5px;
+}
+#lmuBorderBottom.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Communicate.gif');
+}
+#lmuBorderBottomLeft.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Communicate.gif');
+}
+#lmuBorderBottomRight.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div.docTypeIEXCEL-Communicate_Collaborate_Connect #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Communicate.gif');
+}
+#lmuBorderTop.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Evaluate.gif');
+}
+#lmuBorderTopLeft.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Evaluate.gif');
+}
+#lmuBorderTopRight.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Evaluate.gif');
+}
+#lmuBorderLeft.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Evaluate.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Evaluate #lmuBorderLeft {
+  margin-left: -5px;
+}
+#lmuBorderRight.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Evaluate.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Evaluate #lmuBorderRight {
+  margin-right: -5px;
+}
+#lmuBorderBottom.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Evaluate.gif');
+}
+#lmuBorderBottomLeft.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Evaluate.gif');
+}
+#lmuBorderBottomRight.docTypeIEXCEL-Evaluate,
+div.docTypeIEXCEL-Evaluate #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Evaluate.gif');
+}
+#lmuBorderTop.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderTop {
+  background-image: url('/content/chrome/online/_images/side_top_Links.gif');
+}
+#lmuBorderTopLeft.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderTopLeft {
+  background-image: url('/content/chrome/online/_images/corner_topleft_Links.gif');
+}
+#lmuBorderTopRight.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderTopRight {
+  background-image: url('/content/chrome/online/_images/corner_topright_Links.gif');
+}
+#lmuBorderLeft.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderLeft {
+  background-image: url('/content/chrome/online/_images/side_left_Links.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Link #lmuBorderLeft {
+  margin-left: -5px;
+}
+#lmuBorderRight.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderRight {
+  background-image: url('/content/chrome/online/_images/side_right_Links.gif');
+  width: 20px;
+}
+div.docTypeIEXCEL-Link #lmuBorderRight {
+  margin-right: -5px;
+}
+#lmuBorderBottom.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderBottom {
+  background-image: url('/content/chrome/online/_images/side_bottom_Links.gif');
+}
+#lmuBorderBottomLeft.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderBottomLeft {
+  background-image: url('/content/chrome/online/_images/corner_bottomleft_Links.gif');
+}
+#lmuBorderBottomRight.docTypeIEXCEL-Link,
+div.docTypeIEXCEL-Link #lmuBorderBottomRight {
+  background-image: url('/content/chrome/online/_images/corner_bottomright_Links.gif');
+}
+div#lessonDocumentType {
+  float: right;
+}
+/* Document Type Icons */
+div.documentTypeIcon {
+  background-repeat: no-repeat;
+  width: auto;
+  height: auto;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  float: left;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+/* Getting Started */
+div.documentTypeIcon.docTypeGettingStarted {
+  background-image: url('/content/chrome/online/_images/docTypeGettingStarted_dim.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeGettingStarted {
+  background-image: url('/content/chrome/online/_images/docTypeGettingStartedSmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeGettingStarted.highlighted,
+div.documentTypeIcon.docTypeGettingStarted.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeGettingStarted.png');
+  width: 143px;
+}
+/* Instructions */
+div.documentTypeIcon.docTypeInstruction {
+  background-image: url('/content/chrome/online/_images/docTypeInstruction_dim.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeInstruction {
+  background-image: url('/content/chrome/online/_images/docTypeInstructionSmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeInstruction.highlighted,
+div.documentTypeIcon.docTypeInstruction.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeInstruction.png');
+  width: 143px;
+}
+/* Activity */
+div.documentTypeIcon.docTypeActivity {
+  background-image: url('/content/chrome/online/_images/docTypeActivity_dim.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeActivity {
+  background-image: url('/content/chrome/online/_images/docTypeActivitySmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeActivity.highlighted,
+div.documentTypeIcon.docTypeActivity.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeActivity.png');
+  width: 143px;
+}
+/* Review */
+div.documentTypeIcon.docTypeReview {
+  background-image: url('/content/chrome/online/_images/docTypeReview_dim.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeReview {
+  background-image: url('/content/chrome/online/_images/docTypeReviewSmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeReview.highlighted,
+div.documentTypeIcon.docTypeReview.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeReview.png');
+  width: 143px;
+}
+/* Assessment */
+div.documentTypeIcon.docTypeAssessment {
+  background-image: url('/content/chrome/online/_images/docTypeAssessment_dim.1.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeAssessment {
+  background-image: url('/content/chrome/online/_images/docTypeAssessmentSmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeAssessment.highlighted,
+div.documentTypeIcon.docTypeAssessment.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeAssessment.1.png');
+  width: 143px;
+}
+/* Time to Talk */
+div.documentTypeIcon.docTypeTimetoTalk {
+  background-image: url('/content/chrome/online/_images/docTypeTimeToTalk_dim.png');
+  width: 143px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeTimetoTalk {
+  background-image: url('/content/chrome/online/_images/docTypeTimeToTalkSmall.png');
+  width: 37px;
+  height: 37px;
+}
+div#lessonDocumentType.shortened div.documentTypeIcon.docTypeTimetoTalk.highlighted,
+div.documentTypeIcon.docTypeTimetoTalk.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeTimeToTalk.png');
+  width: 143px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Inquire {
+  background-image: url('/content/chrome/online/_images/docTypeInquire_dim.png');
+  width: 28px;
+  height: 37px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Inquire.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeInquire.png');
+}
+div.documentTypeIcon.docTypeIEXCEL-Explore {
+  background-image: url('/content/chrome/online/_images/docTypeExplore_dim.png');
+  width: 33px;
+  height: 37px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Explore.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeExplore.png');
+}
+div.documentTypeIcon.docTypeIEXCEL-Communicate_Collaborate_Connect {
+  background-image: url('/content/chrome/online/_images/docTypeCommunicate_dim.png');
+  width: 29px;
+  height: 37px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Communicate_Collaborate_Connect.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeCommunicate.png');
+}
+div.documentTypeIcon.docTypeIEXCEL-Evaluate {
+  background-image: url('/content/chrome/online/_images/docTypeEvaluate_dim.png');
+  width: 26px;
+  height: 37px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Evaluate.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeEvaluate.png');
+}
+div.documentTypeIcon.docTypeIEXCEL-Link {
+  background-image: url('/content/chrome/online/_images/docTypeLink_dim.png');
+  width: 25px;
+  height: 37px;
+}
+div.documentTypeIcon.docTypeIEXCEL-Link.highlighted {
+  background-image: url('/content/chrome/online/_images/docTypeLink.png');
+}
+div#documentTypeBanner {
+  background-repeat: no-repeat;
+  width: 0px;
+  height: 0px;
+  margin: 0px;
+  padding: 0px;
+  float: left;
+  z-index: 1;
+  position: absolute;
+  bottom: 15px;
+}
+div#documentTypeBanner.docTypeGettingStarted {
+  background-image: none;
+}
+div#documentTypeBanner.docTypeInstruction {
+  background-image: none;
+}
+div#documentTypeBanner.docTypeActivity {
+  background-image: none;
+}
+div#documentTypeBanner.docTypeReview {
+  background-image: none;
+}
+div#documentTypeBanner.docTypeAssessment {
+  background-image: none;
+}
+div#documentTypeBanner.docTypeIEXCEL-Inquire {
+  background-image: url('/content/chrome/online/_images/bannerInquire.png');
+  width: 140px;
+  height: 37px;
+  margin-bottom: -2px;
+}
+div#documentTypeBanner.docTypeIEXCEL-Explore {
+  background-image: url('/content/chrome/online/_images/bannerExplore.png');
+  width: 140px;
+  height: 37px;
+  margin-bottom: -2px;
+}
+div#documentTypeBanner.docTypeIEXCEL-Communicate_Collaborate_Connect {
+  background-image: url('/content/chrome/online/_images/bannerCommunicate.png');
+  width: 410px;
+  height: 37px;
+  margin-bottom: -2px;
+}
+div#documentTypeBanner.docTypeIEXCEL-Evaluate {
+  background-image: url('/content/chrome/online/_images/bannerEvaluate.png');
+  width: 140px;
+  height: 37px;
+  margin-bottom: -2px;
+}
+div#documentTypeBanner.docTypeIEXCEL-Link {
+  background-image: url('/content/chrome/online/_images/bannerLinks.png');
+  width: 110px;
+  height: 37px;
+  margin-bottom: -2px;
+}
+div#lessonDocumentType.docTypeGettingStarted,
+div#lessonDocumentType.docTypeInstruction,
+div#lessonDocumentType.docTypeActivity,
+div#lessonDocumentType.docTypeReview,
+div#lessonDocumentType.docTypeAssessment {
+  right: inherit;
+  margin-right: inherit;
+}
+div#lessonDocumentType.docTypeIEXCEL-Inquire,
+div#lessonDocumentType.docTypeIEXCEL-Explore,
+div#lessonDocumentType.docTypeIEXCEL-Communicate_Collaborate_Connect,
+div#lessonDocumentType.docTypeIEXCEL-Evaluate,
+div#lessonDocumentType.docTypeIEXCEL-Link {
+  right: 0px;
+  margin-right: 13px;
+}
+/*# sourceMappingURL=documentType.css.map */

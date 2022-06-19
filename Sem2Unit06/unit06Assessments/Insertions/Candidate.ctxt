@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Candidate
+comment0.text=\n\ This\ is\ the\ candidate\ class.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/23/2020\n
+comment1.params=name\ numVotes
+comment1.target=Candidate(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Candidate\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=numVotes
+comment4.target=void\ setVotes(int)
+comment5.params=
+comment5.target=int\ getVotes()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

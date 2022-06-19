@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment0.text=\n\ Demonstrates\ Insertion\ Sort\ on\ an\ array\ of\ integers.\n
+comment1.params=
+comment1.target=InsertionSort()
+comment2.params=array
+comment2.target=void\ runSort(int[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

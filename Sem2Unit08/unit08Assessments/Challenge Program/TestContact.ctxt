@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TestContact
+comment0.text=\n\ This\ program\ demonstrates\ the\ concept\ of\ sorting\ and\ searching\ used\ in\ one\ place.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 05/02/2022\n
+comment1.params=contact
+comment1.target=Contact[]\ sortNames(Contact[])
+comment2.params=contact\ toFind
+comment2.target=int\ findByName(Contact[],\ java.lang.String)
+comment3.params=contact\ toFind
+comment3.target=void\ findByRelation(Contact[],\ java.lang.String)
+comment4.params=contact\ toFind
+comment4.target=void\ findByBMonth(Contact[],\ java.lang.String)
+comment5.params=contact\ toFind
+comment5.target=void\ findByPhone(Contact[],\ java.lang.String)
+comment6.params=contact
+comment6.target=Contact[]\ sortEmail(Contact[])
+comment7.params=contact\ toFind
+comment7.target=int\ findByEmail(Contact[],\ java.lang.String)
+comment8.params=contact
+comment8.target=void\ printContacts(Contact[])
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

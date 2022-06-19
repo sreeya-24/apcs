@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyScience
+comment0.text=\n\ This\ is\ a\ child\ class\ of\ Homework.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 04/17/2022\n
+comment1.params=pages\ type
+comment1.target=MyScience(int,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyScience\n
+comment2.params=p
+comment2.target=void\ createAssignment(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

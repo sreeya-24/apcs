@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BinItem
+comment0.text=\n\ Write\ a\ description\ of\ class\ BinItem\ here.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1.0\ 04/03/2022\n
+comment1.params=sku\ quantity
+comment1.target=BinItem(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getSKU()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

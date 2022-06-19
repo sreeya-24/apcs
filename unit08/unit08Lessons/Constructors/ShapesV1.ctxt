@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShapesV1
+comment0.text=\n\ The\ purpose\ of\ this\ program\ is\ to\ calculate\ the\ hypoteneuse\n\ of\ a\ triangle\ and\ its\ area.\ \ All\ calculations\ are\ done\ within\n\ the\ main\ method.\n\ \n\ FLVS\ 2007\n\ @author\ B.\ Jordan\ \n\ @version\ 5/20/07\n\ Lesson\:\ 08.03\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

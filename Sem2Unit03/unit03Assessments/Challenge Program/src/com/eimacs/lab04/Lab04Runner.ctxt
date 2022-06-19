@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Lab04Runner
+comment0.text=\n\n\ @author\ IMACS\ Curriculum\ Development\ Group\n\ @version\ 2.0\ January\ 14,\ 2015\n
+comment1.params=n
+comment1.target=java.util.ArrayList\ makeCatalog(int)
+comment2.params=n
+comment2.target=int\ random(int)
+comment3.params=catalog\ sku
+comment3.target=java.lang.String\ lookupFootwear(java.util.ArrayList,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

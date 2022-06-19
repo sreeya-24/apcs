@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CO2FootprintV1
+comment0.text=\n\ This\ program\ calculates\ how\ much\ CO2\ is\ being\ emitted\ for\ the\ number\ of\ gallons\ projected\ \n\ annually.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 1/17/2022\n
+comment1.params=gals
+comment1.target=CO2FootprintV1(double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CO2FootprintV1\n
+comment2.params=
+comment2.target=void\ calcTons()
+comment2.text=\n\ Method\ to\ calculate\ number\ of\ tons\ emitted\ for\ the\ number\ of\ gallons(no\ parameters)\n
+comment3.params=
+comment3.target=void\ convertTonsToPounds()
+comment3.text=\n\ Method\ to\ convert\ metric\ tons\ to\ pounds(no\ parameters)\n
+comment4.params=
+comment4.target=double\ getTonsCO2()
+comment4.text=\n\ Getter\ method\ to\ return\ the\ value\ of\ tons(no\ parameters)\n
+comment5.params=
+comment5.target=double\ getPoundsCO2()
+comment5.text=\n\ Getter\ method\ to\ return\ the\ converted\ tons\ into\ pounds(no\ parameters)\n
+numComments=6

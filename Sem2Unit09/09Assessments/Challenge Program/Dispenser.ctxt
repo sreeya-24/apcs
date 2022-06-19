@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Dispenser
+comment0.text=\n\ This\ is\ the\ dispenser\ class.\n\n\ @author\ Sreeya\ Gambhirrao\n\ @version\ 05/15/2022\n
+comment1.params=
+comment1.target=Dispenser()
+comment2.params=items\ cst
+comment2.target=Dispenser(int,\ int)
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=
+comment4.target=int\ getProductCost()
+comment5.params=
+comment5.target=void\ makeSale()
+numComments=6

@@ -1,0 +1,53 @@
+
+/**
+ * This is the dispenser class.
+ *
+ * @author Sreeya Gambhirrao
+ * @version 05/15/2022
+ */
+public class Dispenser
+{
+    private int numberOfItem;
+    private int cost;
+    
+    public Dispenser()
+    {
+        numberOfItem = 50;
+        cost = 50;
+    }
+    
+    public Dispenser(int items, int cst)
+    {
+        if(items > 0)
+        {
+            numberOfItem = items;
+        }
+        else
+        {
+            throw new IllegalArgumentException("You must have more than zero items");
+        }
+        if(cst > 0)
+        {
+            cost = cst;
+        }
+        else
+        {
+            throw new IllegalArgumentException("They can't be free!");
+        }
+    }
+    
+    public int getCount()
+    {
+        return numberOfItem;
+    }
+    
+    public int getProductCost()
+    {
+        return cost;
+    }
+    
+    public void makeSale()
+    {
+        numberOfItem--;
+    }
+}
